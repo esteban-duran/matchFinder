@@ -1,0 +1,8 @@
+/framework.broker.core/target/
+/framework.broker.model/target/
+/framework.broker.web/target/
+/framework.broker.pom/target/
+/framework.broker.stub/target/
+.svn
+*.jasper
+*.class
